@@ -1,0 +1,26 @@
+html {
+  overflow-x: hidden;
+  position: relative;
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.4rem;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #444444;
+  margin-bottom: 3rem;
+}
+
+a {
+  color: #bea561;
+}
+
+a:hover {
+  color: #91773b;
+}
+
+p {
+  line-height: 1.8rem;
+}
